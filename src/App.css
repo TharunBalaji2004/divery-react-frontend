@@ -1,0 +1,11 @@
+.Main {
+    min-height: 100vh;
+}
+
+.Home {
+    min-height: 100vh;
+    display: flex;
+    background-image: url("/images/logistics.jpg");
+    background-position: center;
+    background-size: cover;
+}
